@@ -12,3 +12,5 @@ current_count.txt
 
 data-log/*
 !data-log/__init__
+
+venv/
